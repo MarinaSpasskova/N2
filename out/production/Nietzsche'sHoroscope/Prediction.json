@@ -1,0 +1,364 @@
+
+[
+  {
+    "name": "Ram",
+    "prediction": "\"Ни один победитель не верит в случайность.\" Ф.Ницше \"No one winner believes coincidence.\" F.Nietzsche"
+  },
+  {
+    "name":  "Ram",
+    "prediction": "\"Кто не может повелевать себе, должен повиноваться.\" Ф.Ницше \"Who can`t rule himself must obey.\" F.Nietzsche"
+  },
+  {
+    "name": "Ram",
+    "prediction": "\"Если у человека есть зачем, он вынесет любое как.\" Ф.Ницше \"If a person has a why, he will take any how.\" F.Nietzsche"
+  },
+  {
+    "name": "Ram",
+    "prediction": "\"Где нельзя уже любить, там нужно — пройти мимо!\" Ф.Ницше \"Where you can no longer love, there you need to pass by!\" F.Nietzsche"
+  },
+  {
+    "name":  "Ram",
+    "prediction": "\"Невозможно быть свободным от того, от чего убегаешь.\" Ф.Ницше \"It is impossible to be free from what you are running away from.\" F.Nietzsche"
+  },
+  {
+    "name":  "Ram",
+    "prediction": "\"Всякая великая любовь хочет не любви: она хочет большего.\" Ф.Ницше \"Every great love doesn`t want love: it wants more.\" F.Nietzsche"
+  },
+  {
+    "name":  "Ram",
+    "prediction": "\"Правдивый человек в конце концов приходит к пониманию, что он всегда лжет.\" Ф.Ницше \"The truthful person finaly realize what he always lies\" F.Nietzsche"
+  },
+  {
+    "name":  "Bull",
+    "prediction": "\"Красота — это обещание счастья.\" Ф.Ницше \"Beauty is the promise of happiness.\" F.Nietzsche"
+  },
+  {
+    "name": "Bull",
+    "prediction": "\"Хороший брак покоится на таланте к дружбе.\" Ф.Ницше \"A good marriage based on a talent for friendship\" F.Nietzsche"
+  },
+  {
+    "name":  "Bull",
+    "prediction": "\"Пока судьба нас не покорила, следует водить ее за руку, как ребенка, и сечь ее; но если она нас покорила, то следует полюбить ее.\" Ф.Ницше \"Until fate has won us over, we should lead her by the hand like a child and whip her; but if she has won us over, we should love her.\" F.Nietzsche"
+  },
+  {
+    "name" : "Bull",
+    "prediction": "\"То, что делается ради любви, происходит вне сферы добра и зла.\" Ф.Ницше \"What is done for love is done outside of good and evil.\" F.Nietzsche"
+  },
+  {
+    "name":  "Bull",
+    "prediction": "\"Что не убивает меня, то делает меня сильнее.\" Ф.Ницше \"What doesn`t kill me, makes me stronger.\" F.Nietzsche"
+  },
+  {
+    "name":  "Bull",
+    "prediction": "\"Счастье человека зависит от его мыслей.\", Ф.Ницше \"The human happiness depends on his thoughts\" F.Nietzsche"
+  },
+  {
+    "name":  "Bull",
+    "prediction": "\"Будь тем, кто ты есть!\" Ф.Ницше \"Be a person who you really are!\" F.Nietzsche"
+  },
+  {
+    "name": "Twins",
+    "prediction": "\"Кто в себе не носит хаоса, тот никогда не породит звезды.\" Ф.Ницше \"Who hasn`t chaos inside will never generate a star.\" F.Nietzsche"
+  },
+  {
+    "name":  "Twins",
+    "prediction":"\"Факты не существуют - есть только интерпретации.\" Ф.Ницше \"Facts don`t exits, there are only interpretations.\" F.Nietzsche"
+  },
+  {
+    "name":  "Twins",
+    "prediction":"\"Кто хочет оправдать существование, тому надобно еще и уметь быть адвокатом Бога перед дьяволом.\" Ф.Ницше \"Who wants to justify existence has to be a lawyer for God before the devil.\" F.Nietzsche"
+  },
+  {
+    "name": "Twins",
+    "prediction": "\"Любите, пожалуй, своего ближнего, как самого себя. Но прежде всего будьте такими, которые любят самих себя.\" Ф.Ницше \"So love your close, but first of all be a person who love himself.\" F.Nietzsche"
+  },
+  {
+    "name":  "Twins",
+    "prediction": "\"Много говорить о себе – тоже способ себя скрывать.\" Ф.Ницше \"Talking a lot about yourself it`s also the way to hide yourself.\" F.Nietzsche"
+  },
+  {
+    "name":  "Twins",
+    "prediction":"\"Счастье человека зависит от его мыслей.\", Ф.Ницше \"The human happines depends on his thoughts\" F.Nietzsche"
+  },
+  {
+    "name":  "Twins",
+    "prediction":"\"Чем больше человек молчит, тем больше он начинает говорить разумно.\" Ф.Ницше \"The more a person is silent, the more he begins to speak sensibly.\" F.Nietzsche"
+  },
+  {
+    "name": "Crab",
+    "prediction": "\"Человек забывает свою вину, когда исповедуется в ней другому, но этот последний обыкновенно не забывает её.\" Ф.Ницше \"A human forgot his fault, when when he confesses it to another, but the latter usually does not forget it. \" F.Nietzsche"
+  },
+  {
+    "name":  "Crab",
+    "prediction":"\"В мире и без того недостаточно любви и благости, чтобы их еще можно было расточать воображаемым существам.\" Ф.Ницше \"There is not enough love and kindness in the world to waste it on imaginary beings.\" F.Nietzsche"
+  },
+  {
+    "name":  "Crab",
+    "prediction": "\"Когда благодарность многих к одному отбрасывает всякий стыд, возникает слава.\" Ф.Ницше \"When gratitude of many people to one lose any shame a glory comes.\" F.Nietzsche"
+  },
+  {
+    "name":  "Crab",
+    "prediction": "\"То, что делается ради любви, происходит вне сферы добра и зла.\" Ф.Ницше \"What is done for love is done outside of good and evil.\" F.Nietzsche"
+  },
+  {
+    "name":  "Crab",
+    "prediction": "\"Хороший брак покоится на таланте к дружбе.\" Ф.Ницше \"A good marriage based on a talent for friendship\" F.Nietzsche"
+  },
+  {
+    "name":  "Crab",
+    "prediction":"\"Есть степень заядлой лживости, которую называют «чистой совестью».\" Ф.Ницше \"There is a degree of inveterate falsehood which is called \" a clear conscience\" F.Nietzsche"
+  },
+  {
+    "name":  "Crab",
+    "prediction": "\"Даже у Бога есть свой ад — это любовь его к людям\" Ф.Ницше \"Even a God has his own hell, it`s his love to people.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction": "\"Я даю себя обманывать, чтобы не остерегаться обманщиков.\" Ф.Ницше \"I allow fool me to be not afraid of deceivers.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction": "\"Величественные натуры страдают от сомнений в собственном величии.\" Ф.Ницше \"Great natures suffer from doubts of their own greatness.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction":"\"Нечистая совесть - это налог, которым изобретение чистой совести обложило людей.\" Ф.Ницше \"A bad conscience is a tax that the invention of a good conscience has imposed on people.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction": "\"Долгие и великие страдания воспитывают в человеке тирана.\" Ф.Ницше \"Long and great sufferings bring up a tyrant in a man.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction": "\"Нужно гордо поклоняться, если не можешь быть идолом.\" Ф.Ницше \"You have to worship proudly if you can't be an idol.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction":"\"Любите, пожалуй, своего ближнего, как самого себя. Но прежде всего будьте такими, которые любят самих себя.\" Ф.Ницше \"So love your close, but first of all be a person who love himself.\" F.Nietzsche"
+  },
+  {
+    "name":  "Lion",
+    "prediction": "\"Кто не может повелевать себе, должен повиноваться.\" Ф.Ницше \"Who can`t rule himself must obey.\" F.Nietzsche"
+  },
+  {
+    "name":  "Maiden",
+    "prediction":"\"Наш долг — это право, которое другие имеют на нас.\", Ф.Ницше \"Our duty is the right that others have over us.\" F.Nietzsche"
+  },
+  {
+    "name":  "Maiden",
+    "prediction":"\"Вера в причину и следствие коренится в сильнейшем из инстинктов: в инстинкте мести.\", Ф.Ницше \"The belief in cause and effect is rooted in the strongest of instincts: the instinct for revenge.\" F.Nietzsche"
+  },
+  {
+    "name":  "Maiden",
+    "prediction":"\"Лучшим автором будет тот, кто стыдится стать писателем.\" Ф.Ницше \"The beast author will be a person who is ashamed to become a writer.\" F.Nietzsche"
+  },
+  {
+    "name":  "Maiden",
+    "prediction": "\"Смеяться - значит быть злорадным, но с чистой совестью.\" Ф.Ницше \"To laugh means to be malicious, but with a clear conscience.\" F.Nietzsche"
+  },
+  {
+    "name":  "Maiden",
+    "prediction": "\"Человек есть нечто, что до́лжно превзойти.\" Ф.Ницше \"Man is something that shall be surpassed.\" F.Nietzsche"
+  },
+  {
+    "name":  "Maiden",
+    "prediction":"\"Величайшие  события — это не наши самые шумные, а наши самые тихие часы.\" Ф.Ницше \"The happiest events are not our noisiest, but our quietest hours.\" F.Nietzsche"
+  },
+  {
+    "name": "Maiden",
+    "prediction": "\"Даже у Бога есть свой ад — это любовь его к людям\" Ф.Ницше \"Even a God has his own hell, it`s his love to people.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Если вы решили действовать — закройте двери для сомнений.\", Ф.Ницше \"If you decide to act, close the door for doubt.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Без музыки жизнь была бы заблуждением.\", Ф.Ницше \"Without music life would be a delusion.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Красота — это обещание счастья.\" Ф.Ницше \"Beauty is the promise of happiness.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Величественные натуры страдают от сомнений в собственном величии.\" Ф.Ницше \"Great natures suffer from doubts of their own greatness.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Кто в себе не носит хаоса, тот никогда не породит звезды.\" Ф.Ницше \"Who hasn`t chaos inside will never generate a star.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Счастье человека зависит от его мыслей.\" Ф.Ницше \"The human happines depends on his thoughts.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scales",
+    "prediction": "\"Нужны новые уши для новой музыки.\" Ф.Ницше \"We need new ears for new music.\" F.Nietzsche"
+  },
+  {
+    "name": "Scorpion",
+    "prediction": "\"Иногда люди не хотят слышать правду, потому что они не хотят, чтобы их иллюзии были разрушены.\" Ф.Ницше \"Sometimes people don't want to hear the truth because they don't want their illusions to be destroyed.\" F.Nietzsche"
+  },
+  {
+    "name": "Scorpion",
+    "prediction": "\"Вера спасает, - следовательно, она лжет.\" Ф.Ницше \"Faith saves, therefore it's lying.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scorpion",
+    "prediction": "\"В мире и без того недостаточно любви и благости, чтобы их еще можно было расточать воображаемым существам.\" Ф.Ницше \"There is not enough love and kindness in the world to waste it on imaginary beings.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scorpion",
+    "prediction": "\"Нечистая совесть - это налог, которым изобретение чистой совести обложило людей.\" Ф.Ницше \"A bad conscience is a tax that the invention of a good conscience has imposed on people.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scorpion",
+    "prediction": "\"Много говорить о себе – тоже способ себя скрывать.\" Ф.Ницше \"Talking a lot about yourself it`s also the way to hide yourself.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scorpion",
+    "prediction": "\"Невозможно быть свободным от того, от чего убегаешь.\" Ф.Ницше \"It is impossible to be free from what you are running away from.\" F.Nietzsche"
+  },
+  {
+    "name":  "Scorpion",
+    "prediction": "\"Кого окружает пламя ревности, тот обращает наконец, подобно скорпиону, отравленное жало на самого себя.\" Ф.Ницше \"He who is surrounded by the flame of jealousy finally turns the poisoned sting on himself, like a Scorpion\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction": "\"В любви всегда есть немного безумия. Но и в безумии всегда есть немного разума.\" Ф.Ницше \"There is always a little madness in love. But there is always a little sanity in madness.\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction": "\"Правдивый человек в конце концов приходит к пониманию, что он всегда лжет.\" Ф.Ницше \"The truthful person finaly realize what he always lies\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction":  "\"Не нужно додумывать слишком много . Так вы создаете проблемы, которых изначально не было.\" Ф.Ницше \"You don't have to think too much. This is how you create problems that didn't exist in the first place\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction": "\"Факты не существуют - есть только интерпретации.\" Ф.Ницше \"Facts don`t exits, there are only interpretations.\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction": "\"Смерть достаточно близка, чтобы можно было не страшиться жизни.\" Ф.Ницше \"Death is close enough that you can not be afraid of life.\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction": "\"Стремление к величию выдает с головой: кто обладает величием, тот стремиться к доброте.\" Ф.Ницше \"The desire for greatness gives away with a head: who has greatness always strives for kindness.\" F.Nietzsche"
+  },
+  {
+    "name":  "Archer",
+    "prediction": "\"Счастье человека зависит от его мыслей.\", Ф.Ницше \"The human happiness depends on his thoughts\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction": "\"Если у человека есть зачем, он вынесет любое как.\" Ф.Ницше \"If a person has a why, he will take any how.\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction": "\"Если вы решили действовать — закройте двери для сомнений.\", Ф.Ницше \"If you decide to act, close the door for doubt.\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction": "\"Ни один победитель не верит в случайность.\" Ф.Ницше \"No one winner believes coincidence.\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction":"\"Величайшие  события — это не наши самые шумные, а наши самые тихие часы.\" Ф.Ницше \"The happiest events are not our noisiest, but our quietest hours.\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction": "\"Человек есть нечто, что до́лжно превзойти.\" Ф.Ницше \"Man is something that shall be surpassed.\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction":"\"Только человек сопротивляется направлению гравитации: ему постоянно хочется падать - вверх.\" Ф.Ницше \"Only man resists the direction of gravity: he constantly wants to fall-up.\" F.Nietzsche"
+  },
+  {
+    "name":  "GoatHorned",
+    "prediction": "\"Что не убивает меня, то делает меня сильнее.\" Ф.Ницше \"What doesn`t kill me, makes me stronger.\" F.Nietzsche"
+  },
+   {
+     "name":  "WaterBearer",
+     "prediction": "\"Что падает, то нужно еще толкнуть.\" Ф.Ницше \"What falls, you still need to push.\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction":"\"Будь тем, кто ты есть!\" Ф.Ницше \"Be a person who you really are!\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction":"\"Кто в себе не носит хаоса, тот никогда не породит звезды.\" Ф.Ницше \"Who hasn`t chaos inside will never generate a star.\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction":"\"Невозможно быть свободным от того, от чего убегаешь.\" Ф.Ницше \"It is impossible to be free from what you are running away from.\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction": "\"Счастье человека зависит от его мыслей.\" Ф.Ницше \"The human happines depends on his thoughts.\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction":"\"Мы хвалим то, что приходится нам по вкусу: это значит, когда мы хвалим, мы хвалим собственный вкус – не грешит ли это против всякого хорошего вкуса?\" Ф.Ницше \"We praise what we like: this means that when we praise, we praise our own taste. Does it sin against all good taste?\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction": "\"Смерть достаточно близка, чтобы можно было не страшиться жизни.\" Ф.Ницше \"Death is close enough that you can not be afraid of life.\" F.Nietzsche",
+    "isLast": true
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction": "\"Много говорить о себе – тоже способ себя скрывать.\" Ф.Ницше \"Talking a lot about yourself it`s also the way to hide yourself.\" F.Nietzsche"
+  },
+  {
+    "name":  "WaterBearer",
+    "prediction": "\"Где нельзя уже любить, там нужно — пройти мимо!\" Ф.Ницше \"Where you can no longer love, there you need to pass by!\" F.Nietzsche"
+  },
+  {
+    "name": "WaterBearer",
+    "prediction": "\"Иногда люди не хотят слышать правду, потому что они не хотят, чтобы их иллюзии были разрушены.\" Ф.Ницше \"Sometimes people don't want to hear the truth because they don't want their illusions to be destroyed.\" F.Nietzsche"
+  },
+  {
+    "name": "WaterBearer",
+    "prediction":"\"Любите, пожалуй, своего ближнего, как самого себя. Но прежде всего будьте такими, которые любят самих себя.\" Ф.Ницше \"So love your close, but first of all be a person who love himself.\" F.Nietzsche"
+  },
+  {
+    "name": "WaterBearer",
+    "prediction": "\"Всякая великая любовь хочет не любви: она хочет большего.\" Ф.Ницше \"Every great love doesn`t want love: it wants more.\" F.Nietzsche"
+  },
+  {
+    "name": "WaterBearer",
+    "prediction": "\"В любви всегда есть немного безумия. Но и в безумии всегда есть немного разума.\" Ф.Ницше \"There is always a little madness in love. But there is always a little sanity in madness.\" F.Nietzsche"
+  },
+  {
+    "name":  "Fishes",
+    "prediction":"\"Величайшие  события — это не наши самые шумные, а наши самые тихие часы.\" Ф.Ницше \"The happiest events are not our noisiest, but our quietest hours.\" F.Nietzsche"
+  },
+  {
+    "name": "Fishes",
+    "prediction": "\"Где нельзя уже любить, там нужно — пройти мимо!\" Ф.Ницше \"Where you can no longer love, there you need to pass by!\" F.Nietzsche"
+  },
+  {
+    "name": "Fishes",
+    "prediction": "\"Eсть два пути избавить вас от страдания: быстрая смерть и продолжительная любовь.\" Ф.Ницше \"There are two ways to save you from suffering: a quick death and lasting love.\" F.Nietzsche"
+  },
+  {
+    "name": "Fishes",
+    "prediction": "\"Кто сражается с чудовищами, тому следует остерегаться, чтобы самому при этом не стать чудовищем.\" Ф.Ницше \"Those who fight monsters should be careful not to become monsters themselves.\" F.Nietzsche"
+  },
+  {
+    "name": "Fishes",
+    "prediction": "\"Лучше ничего не знать, чем знать многое наполовину!\" Ф.Ницше \"It is better to know nothing than to know much by half.\" F.Nietzsche"
+  },
+  {
+    "name": "Fishes",
+    "prediction": "И если у тебя нет больше ни одной лестницы, ты должен научиться взбираться на собственную голову: как же иначе хотел бы ты подняться выше?\" Ф.Ницше \"And if you don't have any more stairs, you have to learn to climb on your own head: how else would you want to go higher?\" F.Nietzsche"
+  },
+  {
+    "name": "Fishes",
+    "prediction": "Люди свободно лгут ртом, но рожа, которую они при этом корчат, все-таки говорит правду.\" Ф.Ницше \"People lie freely with their mouths, but the face they make is still telling the truth.\" F.Nietzsche"
+  }
+]
