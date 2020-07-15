@@ -11,7 +11,15 @@ import org.json.JSONObject;
 
 public class Prediction {
     private HashMap<String, ArrayList<String>> allZodiacSingsAndPrediction = new HashMap<>();
-    private Set<String> receivedDates = new HashSet<>();
+    private Set<String> receivedDaysOfWeek = new HashSet<>();
+    private  String horoscopeForToday;
+    private String actualDate;
+    private int dayOfWeek;
+
+    //To clean up later!!!!!!!!
+    public String getZodiacSingsName (String name) {
+        return name;
+    }
 
     public void createPredictionList (String fileName) {
         try {
@@ -21,11 +29,15 @@ public class Prediction {
             JSONArray predictionList = new JSONArray(stringOfList);
             for (int i = 0; i < predictionList.length(); i++) {
                 JSONObject predictionJSON = (JSONObject) predictionList.get(i);
-                String zodiacSingName = (String) predictionJSON.get("name");
-                String dayPrediction = (String) predictionJSON.get("prediction");
-                ArrayList allPrediction = new ArrayList();
-                allPrediction.add(dayPrediction);
-                allZodiacSingsAndPrediction.put(zodiacSingName, allPrediction);
+                String zodiacSingName = predictionJSON.optString("name");
+                String dayPrediction = predictionJSON.optString("prediction");
+                if (!allZodiacSingsAndPrediction.containsKey(zodiacSingName)) {
+                    allZodiacSingsAndPrediction.put(zodiacSingName, new ArrayList<>());
+                    allZodiacSingsAndPrediction.get(zodiacSingName).add(dayPrediction);
+                }
+                else {
+                    allZodiacSingsAndPrediction.get(zodiacSingName).add(dayPrediction);
+                }
             }
         } catch (IOException ex) {
             System.out.println("Error during reading " + fileName + ex.getMessage());
@@ -40,11 +52,33 @@ public class Prediction {
         return allZodiacSingsAndPrediction.get(zodiacSingName);
     }
 
-    public HashSet getActualDate() {
+    public String addActualDate() {
         SimpleDateFormat dateFormat = new SimpleDateFormat("dd.MM.yy");
-        String actualTime = dateFormat.format(new Date());
-        receivedDates.add(actualTime);
-        return (HashSet) receivedDates;
+        actualDate = dateFormat.format(new Date());
+        receivedDaysOfWeek.add(actualDate);
+        return actualDate;
     }
 
+    public int getDayOfWeek() {
+        Calendar calendar = Calendar.getInstance();
+        dayOfWeek = calendar.get(Calendar.DAY_OF_WEEK);
+        return dayOfWeek;
+    }
+
+    public String getHoroscopeForToday (String zodiacSingName) {
+        //We have to write (getDayOfWeek()-1) because first day of week=1 but no 0
+        horoscopeForToday = allZodiacSingsAndPrediction.get(zodiacSingName).get(getDayOfWeek()-1);
+        return horoscopeForToday;
+    }
+
+   public static void main(String[] args) {
+        Prediction pred = new Prediction();
+        pred.createPredictionList("Prediction.json");
+        String today = pred.addActualDate();
+        String name = pred.getZodiacSingsName("Scorpion");
+        pred.getDayOfWeek();
+        System.out.println("Nietzsche`s horoscope for "  + name + " for today " +  today
+                + " is " + pred.getHoroscopeForToday("Scorpion"));
+
+    }
 }
