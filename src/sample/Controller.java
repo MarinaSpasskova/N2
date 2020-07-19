@@ -54,49 +54,7 @@ public class Controller implements Initializable {
         System.out.println("Controllers is initialiaezed!");
         display.setWrapText(true);
     }
-
-    /*public void clickButton (MouseEvent mouseEvent) throws IOException {
-            if(mouseEvent.getSource() == ram) {
-                zodiacSing = ram.getText();
-            }
-            if (mouseEvent.getSource() == bull) {
-                zodiacSing = bull.getText();
-            }
-            if (mouseEvent.getSource() == twins) {
-                zodiacSing = twins.getText();
-            }
-            if (mouseEvent.getSource() == crab) {
-                zodiacSing = crab.getText();
-            }
-            if (mouseEvent.getSource() == lion) {
-                zodiacSing = lion.getText();
-            }
-            if (mouseEvent.getSource() == maiden) {
-                zodiacSing = maiden.getText();
-            }
-            if (mouseEvent.getSource() == scales) {
-                zodiacSing = scales.getText();
-            }
-            if (mouseEvent.getSource() == scorpion) {
-                zodiacSing = scorpion.getText();
-            }
-            if (mouseEvent.getSource() == archer) {
-                zodiacSing = archer.getText();
-            }
-            if (mouseEvent.getSource() == goatHorned) {
-                zodiacSing = goatHorned.getText();
-            }
-            if (mouseEvent.getSource() == water) {
-                zodiacSing = water.getText();
-            }
-            if (mouseEvent.getSource() == fishes) {
-                zodiacSing = fishes.getText();
-            }
-            client.contactToServer(zodiacSing);
-            String toSet = client.getDayHoroscope();
-            display.setText(toSet);
-        }*/
-
+    
     public void clickButton(ActionEvent event) throws IOException {
         if(event.getSource() == ram) {
             zodiacSing = ram.getText();
